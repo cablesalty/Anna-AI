@@ -198,3 +198,14 @@ Változtasd meg az `aimodel` változó értékét egy helyes modell nevére.
 
 Az AI modell típusok nevei megtalálhatók az [OpenAI Dokumentációjában](https://platform.openai.com/docs/models/overview).
 
+## Felhasználói adatok
+Ha szeretnéd egy kicsit testreszabni az AI-t, akkor meg tudod változtatni a `userdata.txt` fájl-t. Ebbe a fájlba hasonló adatokat tudsz beírni:
+
+```
+Név: Végh Béla
+Születési dátum: 2001/09/11
+```
+
+Ennek a fájlnak a segítségével már az AI tudja az életkorodat, nevedet, stb... és így még célzottabb válaszokat tud neked adni
+
+**Figyelem:** Nagyon személyes adatokat ne adj meg! Az összes szöveget az OpenAI fogja feldolgozni. Amit nem szeretnél hogy tudjanak, ne mondd el az AI-nak!
