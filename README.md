@@ -209,3 +209,10 @@ Születési dátum: 2001/09/11
 Ennek a fájlnak a segítségével már az AI tudja az életkorodat, nevedet, stb... és így még célzottabb válaszokat tud neked adni
 
 **Figyelem:** Nagyon személyes adatokat ne adj meg! Az összes szöveget az OpenAI fogja feldolgozni. Amit nem szeretnél hogy tudjanak, ne mondd el az AI-nak!
+
+# Támogatás
+Bármilyen támogatásnak nagyon örülünk!
+
+Ha szeretnél valamit hozzátenni a kódhoz, akkor **forkold le a projektet és csinálj egy Pull Requestet a módosításaiddal!**
+
+Paypal: https://paypal.me/cablesalty
