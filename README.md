@@ -100,7 +100,7 @@ Nyisd meg a böngésződ fejlesztői ezközeit. Mivel a Discord oldalán nem mű
 ### Token megszerzése
 Miután megnyitottad a fejlesztői ezközöket, kattints a `Console` fülre. Így átlépsz a JavaScript konzol-ba.
 
-Miután megnyitod a JavaScript konzolt, egy folyamatosan megjelenő figyelmeztetéssel találod szembe magad. Ezt a figyelmeztetést nyugottan ignorálhatod, mivel ez nem token lopó. Ha nem bízol bennem, vagy nem vagy biztos abban hogy mit csinál ez a script, akkor nyugodtan kihagyhatod ezt a fejezetet, és továbbugorhatsz a [következő lépésre](#program-futtatása).
+Miután megnyitod a JavaScript konzolt, egy folyamatosan megjelenő figyelmeztetéssel találod szembe magad. Ezt a figyelmeztetést nyugottan ignorálhatod, mivel ez nem token lopó. Ha nem bízol bennem, vagy nem vagy biztos abban hogy mit csinál ez a script, akkor nyugodtan kihagyhatod ezt a fejezetet, és továbbugorhatsz a [következő lépésre](#a-jelenlegi-városod-megadása).
 
 
 Miután megnyitottad a JavaScript konzolt, másold be ezt a kódot a konzolba:
@@ -128,7 +128,7 @@ Ha nem vagy biztos abban hogy mit csinál a kód, akkor itt van egy "szebb" vál
 ).exports.default.getToken()
 ```
 
-**Ez a script semmilyen fajta módon nem lopja el a tokenedet!** Ha nem bízol bennem, nyugodtan kihagyhatod ezt a fejezetet, és továbbugorhatsz a [következő lépésre](#program-futtatása).
+**Ez a script semmilyen fajta módon nem lopja el a tokenedet!** Ha nem bízol bennem, nyugodtan kihagyhatod ezt a fejezetet, és továbbugorhatsz a [következő lépésre](#a-jelenlegi-városod-megadása).
 
 ### Discord token betáplálása
 Miután megszerezted a Discord tokenedet, hozz létre egy változót a parancssorban.
